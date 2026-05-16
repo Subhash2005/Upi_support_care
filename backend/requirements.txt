@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+motor
+agentspan
+pydantic
+python-dotenv
+websockets
+litellm[proxy]
