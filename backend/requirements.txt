@@ -6,3 +6,5 @@ pydantic
 python-dotenv
 websockets
 litellm[proxy]
+google-generativeai
+redis
